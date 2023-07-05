@@ -1,7 +1,7 @@
 ### 
 👋 Hi there, I'm Angelica 
 
-🎓 I have a Bachelor's of Science in Medical Laboratory Science, and a Bachelor of Business Administration in Management Information Systems (MIS).
+🎓 I have a Bachelor's of Science in Medical Laboratory Science and currently taking up a Bachelor of Business Administration in Management Information Systems (MIS).
 
 🌱 I'm fascinated by data and learning everything about it
 
