@@ -7,7 +7,9 @@
 
 🔭 I'm currently working on building my portfolio and learning Python
 
-📫 You can reach me at angelicakdolor@gmail.com or drop me a message on LinkedIn
+⚡I'm currently transitioning from Lab Analyst to Data Analyst role 🔬🧪 → 💻📊
+
+📫 You can reach me at angelicakdolor@gmail.com or drop me a message on LinkedIn if you wanna connect!
 <!--
 **AngelicaDolor/angelicadolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
