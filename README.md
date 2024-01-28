@@ -1,13 +1,25 @@
 ### 
 👋 Hi there, I'm Angelica 
 
-🎓 I have a Bachelor's of Science in Medical Laboratory Science and currently taking up a Bachelor of Business Administration in Management Information Systems (MIS).
+💻 Skilled in using data analysis tools such as SQL, PowerBI, Tableau for extracting valuable insights.
 
-🌱 I'm fascinated by data and learning everything about it
+📈 Experience in creating visualizations and dashboards to present complex data in a clear and concise manner.
 
-🔭 I'm currently working on building my portfolio and learning Python
+📊 Familiarity with statistical modeling and hypothesis testing to derive meaningful conclusions from data.
 
-⚡I'm currently transitioning from Lab Analyst to Data Analyst role 🔬🧪 → 💻📊
+📑 Strong problem-solving abilities to tackle complex data challenges and provide actionable recommendations.
+
+📚 Continuously expanding knowledge through self-learning and staying updated with the latest trends in data analytics.
+
+👥 Collaborative team player with the ability to work effectively in cross-functional teams.
+
+💬 Excellent interpersonal skills for effectively communicating technical concepts to both technical and non-technical stakeholders.
+
+🌐 Keen interest in leveraging data analysis to drive business growth and optimize processes.
+
+🏆 Results-oriented mindset, striving for continuous improvement and delivering high-quality outcomes.
+
+🌟 Enthusiastic about taking on new challenges and embracing a fast-paced, ever-evolving data landscape.
 
 📫 You can reach me at angelicakdolor@gmail.com or drop me a message on LinkedIn if you wanna connect!
 <!--
@@ -15,12 +27,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
