@@ -1,7 +1,7 @@
 ### 
 👋 Hi there, I'm Angelica 
 
-💻 Skilled in using data analysis tools such as SQL, PowerBI, Tableau for extracting valuable insights.
+💻 Skilled in using data analysis tools such as SQL, PowerBI, Tableau, Excel for extracting valuable insights.
 
 📈 Experience in creating visualizations and dashboards to present complex data in a clear and concise manner.
 
