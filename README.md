@@ -22,11 +22,6 @@
 🌟 Enthusiastic about taking on new challenges and embracing a fast-paced, ever-evolving data landscape.
 
 📫 You can reach me at angelicakdolor@gmail.com or drop me a message on LinkedIn if you wanna connect!
-<!--
-**AngelicaDolor/angelicadolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- ⚡ Fun fact: ...
--->
+```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/AngelicaDolor/AngelicaDolor/blob/main/cat.jpg?raw=true');]{x0000}$}
