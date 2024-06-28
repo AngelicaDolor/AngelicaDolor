@@ -1,26 +1,18 @@
-### 
-👋 Hi there, I'm Angelica 
+# Hi, I'm Angelica👋
 
-💻 Skilled in using data analysis tools such as SQL, PowerBI, Tableau, Excel for extracting valuable insights.
+## Data Analyst, Visual Storyteller, Creative Designer, and Dreamer
 
-📈 Experience in creating visualizations and dashboards to present complex data in a clear and concise manner.
+I love **analyzing** stuff (as an INTP) and daydreaming, with the occasional habits of reading and hunting for cute cafes. I eat raw **csv files** for breakfast and **BI dashboards** for lunch, with the occassional **SQL queries** on the side.
 
-📊 Familiarity with statistical modeling and hypothesis testing to derive meaningful conclusions from data.
+### My Favorite Tools
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Fabrics Analytics](https://img.shields.io/badge/Fabrics_Analytics-FF5733?style=for-the-badge)
 
-📑 Strong problem-solving abilities to tackle complex data challenges and provide actionable recommendations.
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelicadolor/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:angelicakdolor@gmail.com)
 
-📚 Continuously expanding knowledge through self-learning and staying updated with the latest trends in data analytics.
-
-👥 Collaborative team player with the ability to work effectively in cross-functional teams.
-
-💬 Excellent interpersonal skills for effectively communicating technical concepts to both technical and non-technical stakeholders.
-
-🌐 Keen interest in leveraging data analysis to drive business growth and optimize processes.
-
-🏆 Results-oriented mindset, striving for continuous improvement and delivering high-quality outcomes.
-
-🌟 Enthusiastic about taking on new challenges and embracing a fast-paced, ever-evolving data landscape.
-
-📫 You can reach me at angelicakdolor@gmail.com or drop me a message on LinkedIn if you wanna connect!
-
-
+Feel free to reach out via email or connect with me on LinkedIn for a chat. Let's collaborate and create something amazing together!
