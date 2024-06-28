@@ -1,8 +1,8 @@
-# Hi, I'm Angelica👋
+# Hi, I'm Angelica 👋
 
 ## Data Analyst, Visual Storyteller, Creative Designer, and Dreamer
 
-I love **analyzing** stuff (as an INTP girlie) and daydreaming, with the occasional habits of reading and hunting for cute cafes. I eat raw **csv files** for breakfast and **BI dashboards** for lunch, with the occassional **SQL queries** on the side.
+I love **analyzing** stuff (as an [INTP girlie](https://www.16personalities.com/intp-personality)) and daydreaming, with the occasional habits of reading and hunting for cute cafes. I eat raw **csv files** for breakfast and **BI dashboards** for lunch, with the occasional **SQL queries** on the side.
 
 ### My Favorite Tools
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql)
