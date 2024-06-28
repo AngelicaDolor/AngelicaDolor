@@ -2,7 +2,7 @@
 
 ## Data Analyst, Visual Storyteller, Creative Designer, and Dreamer
 
-I love **analyzing** stuff (as an [INTP girlie](https://www.16personalities.com/intp-personality)) and daydreaming, with the occasional habits of reading and hunting for cute cafes. I eat raw **csv files** for breakfast and **BI dashboards** for lunch, with the occasional **SQL queries** on the side.
+I love **analyzing** stuff (as an [INTP girlie](https://www.16personalities.com/intp-personality)) and daydreaming, with a penchant for reading (kinda) and hunting for cute cafes. I eat raw **csv files** for breakfast and **BI dashboards** for lunch, with the occasional **SQL queries** on the side.
 
 ### My Favorite Tools
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql)
@@ -14,5 +14,7 @@ I love **analyzing** stuff (as an [INTP girlie](https://www.16personalities.com/
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelicadolor/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:angelicakdolor@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@angelicadolor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio)](https://mavenanalytics.io/profile/Angelica-Dolor/175747488)
 
 Feel free to reach out via email or connect with me on LinkedIn for a chat. Let's collaborate and create something amazing together!
