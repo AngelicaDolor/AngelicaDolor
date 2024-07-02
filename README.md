@@ -4,12 +4,13 @@
 
 I love **analyzing** stuff (as an [ENTJ girlie](https://www.16personalities.com/entj-personality)) and daydreaming, with a penchant for reading, listening to podcasts and hunting for cute cafes. I eat raw **databases** for breakfast and **BI dashboards** for lunch, with the occasional **SQL queries** on the side.
 
+### Currently Learning: ![Fabrics Analytics](https://img.shields.io/badge/Fabrics_Analytics-FF5733?style=for-the-badge)
+
 ### My Favorite Tools
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Fabrics Analytics](https://img.shields.io/badge/Fabrics_Analytics-FF5733?style=for-the-badge)
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/angelicadolor/)
