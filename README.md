@@ -2,8 +2,6 @@
 
 ## Data Analyst, Visual Storyteller, Creative Designer, and Dreamer
 
-I love **analyzing** stuff (as an [INTJ girlie](https://www.16personalities.com/intj-personality)) and daydreaming, with a penchant for reading, listening to podcasts and hunting for cute cafes. I eat raw **databases** for breakfast and **BI dashboards** for lunch, with the occasional **SQL queries** on the side.
-
 ### My Favorite Tools
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
